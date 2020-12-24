@@ -39,6 +39,11 @@ flex-wrap: wrap;
 border:5px solid black;
 border-radius: 50px;
 }
+.grid{
+display: flex;
+flex-wrap: wrap;
+      justify-content: space-evenly;  
+}
 .oragami{
  border-radius: 20px;
     width: 310px;
